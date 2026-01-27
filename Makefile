@@ -1,7 +1,7 @@
 OUTPUT := ./
 CURL := curl -L -o
 
-COMPANY_NAME ?= onlyoffice
+COMPANY_NAME ?= univaultoffice
 PRODUCT_NAME ?= documentbuilder
 PRODUCT_VERSION ?= 0.0.0
 

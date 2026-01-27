@@ -1,4 +1,4 @@
-# 📝 ONLYOFFICE Document Builder
+# 📝 UNIVAULTOFFICE Document Builder
 
 Easily **create, edit, and convert office documents** without running a full editor. Lightweight, flexible, and built for automation in your apps and workflows.
 
@@ -6,7 +6,7 @@ Easily **create, edit, and convert office documents** without running a full edi
 
 ## ✨ Overview
 
-[ONLYOFFICE Document Builder](https://www.onlyoffice.com/document-builder?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder) allows you to **generate and edit documents without opening a full editor**. It’s designed for developers who want to **automate document creation** using scripts and templates, while staying lightweight and easy to integrate into any system.
+[UNIVAULTOFFICE Document Builder](https://www.univaultoffice.github.io/document-builder?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder) allows you to **generate and edit documents without opening a full editor**. It’s designed for developers who want to **automate document creation** using scripts and templates, while staying lightweight and easy to integrate into any system.
 
 - Full set of features you’d expect from a document editor
 - Automate document workflows in CMS, CRM, or DMS
@@ -14,7 +14,7 @@ Easily **create, edit, and convert office documents** without running a full edi
 - Simple integration into existing apps and services
 - Cross-platform and multi-language support
 
-👉 Learn more in the [API overview](https://api.onlyoffice.com/docs/document-builder/get-started/overview/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
+👉 Learn more in the [API overview](https://api.univaultoffice.github.io/docs/document-builder/get-started/overview/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
 
 ---
 
@@ -33,15 +33,15 @@ Easily **create, edit, and convert office documents** without running a full edi
 Install Document Builder on **Windows, Linux, or macOS** and start using it with your preferred programming language:
 
 - **Python**: `pip3 install document-builder`
-- **C++/Java/.NET**: For other languages, follow the platform-specific [installation guide](https://api.onlyoffice.com/docs/document-builder/get-started/installing/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder) for setup.
+- **C++/Java/.NET**: For other languages, follow the platform-specific [installation guide](https://api.univaultoffice.github.io/docs/document-builder/get-started/installing/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder) for setup.
 
-👉 [Explore code samples](https://api.onlyoffice.com/docs/document-builder/get-started/installing/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder#run-the-samples)
+👉 [Explore code samples](https://api.univaultoffice.github.io/docs/document-builder/get-started/installing/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder#run-the-samples)
 
 ---
 
 ## 📑 Supported formats
 
-| Category           | [Supported formats](https://api.onlyoffice.com/docs/document-builder/get-started/supported-formats/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)       |
+| Category           | [Supported formats](https://api.univaultoffice.github.io/docs/document-builder/get-started/supported-formats/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)       |
 | ------------------ | --------------------------------------------------- |
 | **Text Documents** | DOCX, DOC, ODT, RTF, TXT, HTML, DOTX, OTT, PDF      |
 | **Spreadsheets**   | XLSX, XLS, ODS, CSV, XLTX, OTS                      |
@@ -55,10 +55,10 @@ Install Document Builder on **Windows, Linux, or macOS** and start using it with
 
 ## 📌 Project Information
 
-- 🌐 **Official Website:** [ONLYOFFICE Document Builder](https://www.onlyoffice.com/document-builder?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
-- 💾 **Repository:** [ONLYOFFICE/DocumentBuilder](https://github.com/ONLYOFFICE/DocumentBuilder)
-- 📖 **API Documentation:** [DocBuilder API Reference](https://api.onlyoffice.com/docs/document-builder/get-started/overview/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
-- ⚖️ **License:** ONLYOFFICE Document Builder is dual-licensed. For commercial use, please contact **sales@onlyoffice.com**
+- 🌐 **Official Website:** [UNIVAULTOFFICE Document Builder](https://www.univaultoffice.github.io/document-builder?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
+- 💾 **Repository:** [UNIVAULTOFFICE/DocumentBuilder](https://github.com/UnivaultOffice/DocumentBuilder)
+- 📖 **API Documentation:** [DocBuilder API Reference](https://api.univaultoffice.github.io/docs/document-builder/get-started/overview/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
+- ⚖️ **License:** UNIVAULTOFFICE Document Builder is dual-licensed. For commercial use, please contact **sales@univaultoffice.github.io**
 
 ---
 
@@ -68,7 +68,7 @@ We ❤️ contributions from our community!
 
 Here’s how you can get involved:
 
-1. **Report issues** – Found a bug or have a feature request? Open an [issue](https://github.com/ONLYOFFICE/DocumentBuilder/issues).
+1. **Report issues** – Found a bug or have a feature request? Open an [issue](https://github.com/UnivaultOffice/DocumentBuilder/issues).
 2. **Submit pull requests** – Share your improvements, bug fixes, or new examples.
 3. **Contribute templates & scripts** – Help other developers by sharing your own use cases.
 4. **Enhance the docs** – Improve clarity, add tutorials, or suggest better examples.
@@ -79,11 +79,11 @@ Here’s how you can get involved:
 
 ## 📞 Stay in touch
 
-Stay connected with the ONLYOFFICE community and be the first to know about updates, tutorials, and news:
+Stay connected with the UNIVAULTOFFICE community and be the first to know about updates, tutorials, and news:
 
-- 🌍 **Website:** [onlyoffice.com](https://www.onlyoffice.com?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
-- 📰 **Blog:** [ONLYOFFICE Blog](https://www.onlyoffice.com/blog?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
-- 🛠 **Forum:** [ONLYOFFICE Community](https://community.onlyoffice.com/)
-- 💬 **Feedback platform:** [feedback.onlyoffice.com](https://feedback.onlyoffice.com/forums/966080-your-voice-matters). 
+- 🌍 **Website:** [univaultoffice.github.io](https://www.univaultoffice.github.io?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
+- 📰 **Blog:** [UNIVAULTOFFICE Blog](https://www.univaultoffice.github.io/blog?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDocumentBuilder)
+- 🛠 **Forum:** [UNIVAULTOFFICE Community](https://community.univaultoffice.github.io/)
+- 💬 **Feedback platform:** [feedback.univaultoffice.github.io](https://feedback.univaultoffice.github.io/forums/966080-your-voice-matters). 
 
 ---
